@@ -78,7 +78,7 @@ dependencies = [
 
 [[package]]
 name = "arceos-userprivilege"
-version = "0.4.3"
+version = "0.4.4"
 dependencies = [
  "axerrno 0.1.2",
  "axfeat",
